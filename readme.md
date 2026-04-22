@@ -1,8 +1,8 @@
-# learn-claude-code
+# myClaude
 
 ## 简介
 
-`learn-claude-code` 是一个专注于探索 **AI Agent (智能体)** 核心机制的学习项目。本项目受 Anthropic Claude Code 启发，旨在通过动手实现（Hands-on）的方式，深入理解从“被动对话”到“主动工程化 Agent”的演进过程。
+`myClaude` 是一个专注于探索 **AI Agent (智能体)** 核心机制的学习项目。本项目受 Anthropic Claude Code 启发，旨在通过动手实现（Hands-on）的方式，深入理解从“被动对话”到“主动工程化 Agent”的演进过程。在构建中深入理解并实现了Harness。
 
 ## 🎯 项目目标
 
